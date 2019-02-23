@@ -21,13 +21,13 @@ https://ux247.com/usability-glossary/
 - Search Field
 - Filter
 - Information Links
-? About
-? More information on UX
+- ? About
+- ? More information on UX
 
 ### Interior Pages
 - Information title
 - Information descriptions
-? Examples
+- ? Examples
 
 ## Technologies
 - https://jekyllrb.com/
